@@ -2,6 +2,8 @@ Nic Pittman
 
 # leaflet-challenge
 
+https://nic-pittman.github.io/leaflet-challenge/
+
 # Your Task
 
 * Level 1: Basic Visualization
